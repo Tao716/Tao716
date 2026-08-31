@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="290" viewBox="0 0 900 290" role="img" aria-labelledby="title desc">
+  <title id="title">Tao716 AI Product Manager profile header</title>
+  <desc id="desc">Cyber-style introduction highlighting AI product focus, working method, and core capabilities.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020405" />
+      <stop offset="0.52" stop-color="#071115" />
+      <stop offset="1" stop-color="#030508" />
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00ff9c" />
+      <stop offset="0.55" stop-color="#00e5ff" />
+      <stop offset="1" stop-color="#b026ff" />
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#00e5ff" stroke-opacity="0.055" stroke-width="1" />
+    </pattern>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <path d="M0 3.5H900" stroke="#ffffff" stroke-opacity="0.025" stroke-width="1" />
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="1.2" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <clipPath id="screen">
+      <rect x="16" y="16" width="868" height="258" rx="12" />
+    </clipPath>
+  </defs>
+
+  <rect width="900" height="290" rx="16" fill="#010203" />
+  <rect x="4" y="4" width="892" height="282" rx="14" fill="url(#bg)" stroke="#00ff9c" stroke-opacity="0.52" stroke-width="1.5" />
+  <rect x="10" y="10" width="880" height="270" rx="12" fill="none" stroke="#00e5ff" stroke-opacity="0.17" />
+
+  <g clip-path="url(#screen)">
+    <rect x="16" y="16" width="868" height="258" fill="url(#grid)" />
+
+    <g opacity="0.12" fill="#00ff9c" font-family="monospace" font-size="11">
+      <text x="42" y="-120">1 0 1 1 0 0 1 0 1 0 0 1 1 0 1 0 1 1 0 0 1 0 1 0</text>
+      <text x="42" y="-92">0 1 0 0 1 1 0 1 0 1 1 0 0 1 0 1 0 0 1 1 0 1 0 1</text>
+      <text x="42" y="-64">7 1 6 0 0 1 1 0 1 0 1 0 0 1 1 0 7 1 6 0 1 0 0 1</text>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 430" dur="12s" repeatCount="indefinite" />
+    </g>
+
+    <rect x="16" y="16" width="868" height="258" fill="url(#scanlines)" />
+
+    <rect x="16" y="-18" width="868" height="38" fill="#00e5ff" opacity="0.028">
+      <animate attributeName="y" values="-18;274;-18" dur="7s" repeatCount="indefinite" />
+    </rect>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'PingFang SC', 'Microsoft YaHei', monospace">
+      <circle cx="43" cy="38" r="5" fill="#ff5f56" />
+      <circle cx="61" cy="38" r="5" fill="#ffbd2e" />
+      <circle cx="79" cy="38" r="5" fill="#27c93f" />
+      <text x="102" y="42" fill="#72818a" font-size="12">TAO716 / AI 产品档案</text>
+      <text x="834" y="42" fill="#00ff9c" font-size="11" text-anchor="end">目标岗位：AI 产品经理</text>
+
+      <path d="M32 57H868" stroke="#00e5ff" stroke-opacity="0.18" />
+
+      <text x="45" y="88" fill="#00ff9c" font-size="14" filter="url(#softGlow)">&gt; AI 产品经理 / AI 原生产品构建者</text>
+      <text x="45" y="111" fill="#8fa0a9" font-size="12">方向  AI 原生产品 · Agent 工作流 · RAG</text>
+      <text x="45" y="129" fill="#8fa0a9" font-size="12">方法  用户洞察 → 原型 → 验证 → 迭代</text>
+
+      <text x="45" y="192" fill="#00e5ff" opacity="0.26" font-size="57" font-weight="800" letter-spacing="4">TAO716</text>
+      <text x="42" y="189" fill="url(#neon)" font-size="57" font-weight="800" letter-spacing="4" filter="url(#glow)">TAO716</text>
+
+      <text x="46" y="218" fill="#d7fff1" font-size="14" letter-spacing="2">AI 产品经理  //  原型驱动的产品构建者</text>
+      <text x="46" y="244" fill="#00ff9c" font-size="12">把模型能力转化为真正可用的产品体验</text>
+      <rect x="285" y="233" width="8" height="14" fill="#00ff9c">
+        <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite" />
+      </rect>
+
+      <g transform="translate(704 79)">
+        <rect width="147" height="122" rx="6" fill="#020607" fill-opacity="0.8" stroke="#00e5ff" stroke-opacity="0.3" />
+        <text x="14" y="24" fill="#00e5ff" font-size="10">核心能力</text>
+        <text x="14" y="48" fill="#00ff9c" font-size="9">01  用户洞察</text>
+        <path d="M14 56H132" stroke="#00ff9c" stroke-opacity="0.25" />
+        <text x="14" y="75" fill="#00e5ff" font-size="9">02  AI 原型</text>
+        <path d="M14 83H132" stroke="#00e5ff" stroke-opacity="0.25" />
+        <text x="14" y="102" fill="#b026ff" font-size="9">03  产品迭代</text>
+        <text x="14" y="116" fill="#71818a" font-size="8">AGENT · RAG · 用户体验</text>
+      </g>
+    </g>
+  </g>
+
+  <path d="M20 268H196" stroke="url(#neon)" stroke-width="2" filter="url(#softGlow)" />
+  <path d="M704 268H880" stroke="url(#neon)" stroke-width="2" filter="url(#softGlow)" />
+</svg>
