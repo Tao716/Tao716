@@ -58,37 +58,37 @@
       <animate attributeName="y" values="-18;274;-18" dur="7s" repeatCount="indefinite" />
     </rect>
 
-    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'PingFang SC', 'Microsoft YaHei', monospace">
       <circle cx="43" cy="38" r="5" fill="#ff5f56" />
       <circle cx="61" cy="38" r="5" fill="#ffbd2e" />
       <circle cx="79" cy="38" r="5" fill="#27c93f" />
-      <text x="102" y="42" fill="#72818a" font-size="12">TAO716 / AI PRODUCT PROFILE</text>
-      <text x="834" y="42" fill="#00ff9c" font-size="11" text-anchor="end">AI PM CANDIDATE</text>
+      <text x="102" y="42" fill="#72818a" font-size="12">TAO716 / AI 产品档案</text>
+      <text x="834" y="42" fill="#00ff9c" font-size="11" text-anchor="end">目标岗位：AI 产品经理</text>
 
       <path d="M32 57H868" stroke="#00e5ff" stroke-opacity="0.18" />
 
-      <text x="45" y="88" fill="#00ff9c" font-size="14" filter="url(#softGlow)">&gt; AI Product Manager / AI-native Builder</text>
-      <text x="45" y="111" fill="#8fa0a9" font-size="12">FOCUS   AI-native products · Agent workflows · RAG</text>
-      <text x="45" y="129" fill="#8fa0a9" font-size="12">METHOD  User insight → prototype → validate → iterate</text>
+      <text x="45" y="88" fill="#00ff9c" font-size="14" filter="url(#softGlow)">&gt; AI 产品经理 / AI 原生产品构建者</text>
+      <text x="45" y="111" fill="#8fa0a9" font-size="12">方向  AI 原生产品 · Agent 工作流 · RAG</text>
+      <text x="45" y="129" fill="#8fa0a9" font-size="12">方法  用户洞察 → 原型 → 验证 → 迭代</text>
 
       <text x="45" y="192" fill="#00e5ff" opacity="0.26" font-size="57" font-weight="800" letter-spacing="4">TAO716</text>
       <text x="42" y="189" fill="url(#neon)" font-size="57" font-weight="800" letter-spacing="4" filter="url(#glow)">TAO716</text>
 
-      <text x="46" y="218" fill="#d7fff1" font-size="14" letter-spacing="2">AI PRODUCT MANAGER  //  PROTOTYPE-DRIVEN BUILDER</text>
-      <text x="46" y="244" fill="#00ff9c" font-size="12">Turning model capabilities into useful product experiences</text>
-      <rect x="466" y="233" width="8" height="14" fill="#00ff9c">
+      <text x="46" y="218" fill="#d7fff1" font-size="14" letter-spacing="2">AI 产品经理  //  原型驱动的产品构建者</text>
+      <text x="46" y="244" fill="#00ff9c" font-size="12">把模型能力转化为真正可用的产品体验</text>
+      <rect x="285" y="233" width="8" height="14" fill="#00ff9c">
         <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite" />
       </rect>
 
       <g transform="translate(704 79)">
         <rect width="147" height="122" rx="6" fill="#020607" fill-opacity="0.8" stroke="#00e5ff" stroke-opacity="0.3" />
-        <text x="14" y="24" fill="#00e5ff" font-size="10">CORE CAPABILITIES</text>
-        <text x="14" y="48" fill="#00ff9c" font-size="9">01  USER INSIGHT</text>
+        <text x="14" y="24" fill="#00e5ff" font-size="10">核心能力</text>
+        <text x="14" y="48" fill="#00ff9c" font-size="9">01  用户洞察</text>
         <path d="M14 56H132" stroke="#00ff9c" stroke-opacity="0.25" />
-        <text x="14" y="75" fill="#00e5ff" font-size="9">02  AI PROTOTYPING</text>
+        <text x="14" y="75" fill="#00e5ff" font-size="9">02  AI 原型</text>
         <path d="M14 83H132" stroke="#00e5ff" stroke-opacity="0.25" />
-        <text x="14" y="102" fill="#b026ff" font-size="9">03  PRODUCT ITERATION</text>
-        <text x="14" y="116" fill="#71818a" font-size="8">AGENT · RAG · UX</text>
+        <text x="14" y="102" fill="#b026ff" font-size="9">03  产品迭代</text>
+        <text x="14" y="116" fill="#71818a" font-size="8">AGENT · RAG · 用户体验</text>
       </g>
     </g>
   </g>
