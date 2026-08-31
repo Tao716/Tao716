@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/cyber-header.svg" width="100%" alt="Tao716 cyber terminal header" />
+  <img src="./assets/cyber-header.svg" width="82%" alt="Tao716 cyber terminal header" />
 </div>
 
 <p align="center">
@@ -77,4 +77,3 @@ focus:
   <br />
   <sub><code>SESSION ACTIVE // TRACE ID: TAO716 // END OF LINE_</code></sub>
 </div>
-
