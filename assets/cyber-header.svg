@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="290" viewBox="0 0 900 290" role="img" aria-labelledby="title desc">
-  <title id="title">Tao716 cyber terminal profile header</title>
-  <desc id="desc">Animated black terminal interface with neon green and cyan typography.</desc>
+  <title id="title">Tao716 AI Product Manager profile header</title>
+  <desc id="desc">Cyber-style introduction highlighting AI product focus, working method, and core capabilities.</desc>
 
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -62,38 +62,33 @@
       <circle cx="43" cy="38" r="5" fill="#ff5f56" />
       <circle cx="61" cy="38" r="5" fill="#ffbd2e" />
       <circle cx="79" cy="38" r="5" fill="#27c93f" />
-      <text x="102" y="42" fill="#72818a" font-size="12">root@tao716: ~/identity</text>
-      <text x="834" y="42" fill="#00ff9c" font-size="11" text-anchor="end">● ONLINE</text>
+      <text x="102" y="42" fill="#72818a" font-size="12">TAO716 / AI PRODUCT PROFILE</text>
+      <text x="834" y="42" fill="#00ff9c" font-size="11" text-anchor="end">AI PM CANDIDATE</text>
 
       <path d="M32 57H868" stroke="#00e5ff" stroke-opacity="0.18" />
 
-      <text x="45" y="88" fill="#00ff9c" font-size="14" filter="url(#softGlow)">root@tao716:~$ ./init_profile --mode=cyber</text>
-      <text x="45" y="111" fill="#65747d" font-size="12">[ OK ] identity module loaded</text>
-      <text x="45" y="129" fill="#65747d" font-size="12">[ OK ] creative engine connected</text>
+      <text x="45" y="88" fill="#00ff9c" font-size="14" filter="url(#softGlow)">&gt; AI Product Manager / AI-native Builder</text>
+      <text x="45" y="111" fill="#8fa0a9" font-size="12">FOCUS   AI-native products · Agent workflows · RAG</text>
+      <text x="45" y="129" fill="#8fa0a9" font-size="12">METHOD  User insight → prototype → validate → iterate</text>
 
       <text x="45" y="192" fill="#00e5ff" opacity="0.26" font-size="57" font-weight="800" letter-spacing="4">TAO716</text>
       <text x="42" y="189" fill="url(#neon)" font-size="57" font-weight="800" letter-spacing="4" filter="url(#glow)">TAO716</text>
 
-      <text x="46" y="218" fill="#d7fff1" font-size="14" letter-spacing="2">AI PRODUCT BUILDER  //  VIBE CODER</text>
-      <text x="46" y="244" fill="#00ff9c" font-size="12">&gt; building human-centered AI experiences</text>
-      <rect x="370" y="233" width="8" height="14" fill="#00ff9c">
+      <text x="46" y="218" fill="#d7fff1" font-size="14" letter-spacing="2">AI PRODUCT MANAGER  //  PROTOTYPE-DRIVEN BUILDER</text>
+      <text x="46" y="244" fill="#00ff9c" font-size="12">Turning model capabilities into useful product experiences</text>
+      <rect x="466" y="233" width="8" height="14" fill="#00ff9c">
         <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite" />
       </rect>
 
       <g transform="translate(704 79)">
         <rect width="147" height="122" rx="6" fill="#020607" fill-opacity="0.8" stroke="#00e5ff" stroke-opacity="0.3" />
-        <text x="14" y="24" fill="#00e5ff" font-size="10">SYSTEM TRACE</text>
-        <text x="14" y="46" fill="#71818a" font-size="9">CURIOSITY</text>
-        <rect x="14" y="53" width="118" height="4" fill="#10232a" />
-        <rect x="14" y="53" width="105" height="4" fill="#00ff9c">
-          <animate attributeName="width" values="18;105;98;105" dur="4s" repeatCount="indefinite" />
-        </rect>
-        <text x="14" y="77" fill="#71818a" font-size="9">PROTOTYPE</text>
-        <rect x="14" y="84" width="118" height="4" fill="#10232a" />
-        <rect x="14" y="84" width="92" height="4" fill="#00e5ff">
-          <animate attributeName="width" values="22;92;82;92" dur="5s" repeatCount="indefinite" />
-        </rect>
-        <text x="14" y="108" fill="#b026ff" font-size="9">TRACE_ID: 0716</text>
+        <text x="14" y="24" fill="#00e5ff" font-size="10">CORE CAPABILITIES</text>
+        <text x="14" y="48" fill="#00ff9c" font-size="9">01  USER INSIGHT</text>
+        <path d="M14 56H132" stroke="#00ff9c" stroke-opacity="0.25" />
+        <text x="14" y="75" fill="#00e5ff" font-size="9">02  AI PROTOTYPING</text>
+        <path d="M14 83H132" stroke="#00e5ff" stroke-opacity="0.25" />
+        <text x="14" y="102" fill="#b026ff" font-size="9">03  PRODUCT ITERATION</text>
+        <text x="14" y="116" fill="#71818a" font-size="8">AGENT · RAG · UX</text>
       </g>
     </g>
   </g>
@@ -101,4 +96,3 @@
   <path d="M20 268H196" stroke="url(#neon)" stroke-width="2" filter="url(#softGlow)" />
   <path d="M704 268H880" stroke="url(#neon)" stroke-width="2" filter="url(#softGlow)" />
 </svg>
-
