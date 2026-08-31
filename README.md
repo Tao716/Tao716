@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/cyber-header-cn.svg" width="82%" alt="Tao716 AI 产品经理赛博动态封面" />
+  <img src="./assets/cyber-header-taoyue.svg" width="82%" alt="陶越 AI 产品经理赛博动态封面" />
 </div>
 
 <p align="center">
