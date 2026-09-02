@@ -1,46 +1,60 @@
-<div align="center">
-  <img src="./assets/cyber-header-taoyue.svg" width="82%" alt="陶越 AI 产品经理赛博动态封面" />
-</div>
+<p align="center">
+  <a href="https://github.com/Tao716?tab=repositories">
+    <img src="./assets/taoyue-product-universe-v2.png" width="100%" alt="陶越的 AI 产品宇宙：从用户洞察到原型验证" />
+  </a>
+</p>
 
-<h3 align="center">陶越｜AI 产品经理方向</h3>
+<h1 align="center">陶越｜AI 产品经理</h1>
 
 <p align="center">
-  把用户问题、模型能力与产品目标连接成可验证的解决方案。
+  <strong>把问题听清，把能力做实，把产品验证出来。</strong>
 </p>
 
 <p align="center">
-  <code>用户洞察</code>&nbsp;·&nbsp;<code>AI 产品架构</code>&nbsp;·&nbsp;<code>Agent 工作流</code>&nbsp;·&nbsp;<code>快速原型</code>
+  <sub>用户洞察 · 产品拆解 · Agent 工作流 · 原型验证</sub>
 </p>
 
-## `精选 AI 产品案例`
+| **LISTEN** | **FRAME** | **BUILD** | **LEARN** |
+| :---: | :---: | :---: | :---: |
+| 听见真实问题 | 定义目标与边界 | 做出可用原型 | 用证据推动迭代 |
 
-| 项目 | 解决的问题 | 核心方案 | 能力证明 |
-|---|---|---|---|
-| [AI 推理游戏](https://github.com/Tao716/ai-mini-game) | 纯聊天式 AI 游戏操作弱、状态不可控 | 用可点击地图、人物卡和线索板承载交互；模型负责理解与叙事，工具负责确定性状态和胜负规则 | 产品原型、Agent Loop、能力边界设计 |
-| [小红书 AI 搜索架构分析](https://github.com/Tao716/xiaohongshu) | 公开页面难以说明完整产品与系统关系 | 基于证据拆解用户链路、产品能力、数据流和风险，明确区分事实、推断、建议与未知项 | 产品逆向、架构表达、风险判断 |
-| [LibTV AI 创作产品分析](https://github.com/Tao716/libtv) | AI 创作工具的 Agent、资产与任务关系复杂 | 还原 As-Is 架构，并提出工作流状态、资产版本、计费与治理的 To-Be 方案 | AI 工作流、数据建模、系统性思考 |
-| [活人感中文写作 Skill](https://github.com/Tao716/human-writing-skill) | AI 中文写作容易空泛、重复且缺少事实边界 | 建立材料检查、文体路由、事实核验、多轮改稿和质量检查规则 | Skill 设计、质量标准、提示策略 |
+## 🌙 我把模糊的 AI 想法，推进成可验证的产品
 
-## `我的产品方法`
+我是 **陶越**，关注 **AI 原生产品、Agent 工作流与内容工具** 的产品经理。
 
-`发现问题` → `定义需求` → `拆解能力边界` → `制作原型` → `验证与迭代`
-
-- **先确认用户价值**：明确目标用户、核心场景和需要解决的真实问题。
-- **再设计 AI 边界**：区分模型擅长的理解与生成，以及工具必须保证的状态、规则和结果。
-- **用原型降低不确定性**：通过可运行 Demo、架构图和任务流程验证产品假设。
-- **以证据推动迭代**：区分事实、推断和建议，不用未经验证的数据包装结果。
-
-## `能力与工具`
+我喜欢从真实场景出发，把用户问题、模型能力与产品目标连接起来：先判断 AI 是否真的适合介入，再拆清模型与工具的能力边界，通过原型、流程和证据降低不确定性。对我来说，产品方案不应只停在文档里——它需要能被体验、被验证，也能被继续迭代。
 
 <p>
-  <img src="https://img.shields.io/badge/AI_Product-05070a?style=flat-square&logo=openai&logoColor=00ff9c" alt="AI Product" />
-  <img src="https://img.shields.io/badge/Agent_Workflow-05070a?style=flat-square&logo=dependabot&logoColor=00e5ff" alt="Agent Workflow" />
-  <img src="https://img.shields.io/badge/TypeScript-05070a?style=flat-square&logo=typescript&logoColor=00e5ff" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-05070a?style=flat-square&logo=python&logoColor=00ff9c" alt="Python" />
+  🧭 <a href="https://github.com/Tao716?tab=repositories">查看全部项目</a>
+  &nbsp;·&nbsp; 📌 <a href="https://github.com/Tao716#代表作品">查看代表作品</a>
 </p>
 
+---
+
+## ⭐ 代表作品
+
+| 项目 | 它解决什么 | 产品证明 |
+| --- | --- | --- |
+| 🎮 [AI 推理游戏](https://github.com/Tao716/ai-mini-game) | 让纯聊天式 AI 游戏拥有可点击交互、可控状态与明确胜负规则 | 可运行原型 · Agent Loop · 模型/工具边界 |
+| 🔎 [小红书 AI 搜索架构分析](https://github.com/Tao716/xiaohongshu) | 从公开证据还原用户链路、产品能力、数据流与关键风险 | 产品逆向 · 架构表达 · 风险判断 |
+| 🎬 [LibTV AI 创作产品分析](https://github.com/Tao716/libtv) | 理清 AI 创作产品中的 Agent、资产、任务与工作流关系 | As-Is / To-Be · 数据建模 · 系统设计 |
+| ✍️ [活人感中文写作 Skill](https://github.com/Tao716/human-writing-skill) | 降低 AI 中文写作的空泛、重复与事实失控 | Skill 设计 · 质量标准 · 多轮改稿 |
+
+## 🎯 我的产品工作方式
+
+- **用户问题 × 价值判断**：先确认目标用户、核心场景和真实痛点，再决定是否需要 AI。
+- **模型能力 × 产品边界**：让模型负责理解与生成，让工具负责状态、规则与确定性结果。
+- **快速原型 × 风险验证**：用可运行 Demo、架构图和任务流程尽早暴露关键假设。
+- **证据表达 × 持续迭代**：区分事实、推断、建议与未知项，让结论可追溯、可讨论。
+
+## 🔭 最近在推进
+
+- 继续探索更自然的 **AI 原生交互**，让复杂模型能力变成用户真正能理解、能控制的体验。
+- 把产品拆解沉淀成可复用的 **分析框架与 Agent Skills**，提升研究与交付效率。
+- 用小而完整的原型验证想法，从“功能能不能做”走向“产品值不值得做”。
+
 <details>
-  <summary><code>查看贡献图动画</code></summary>
+  <summary>🐍 查看贡献图动画</summary>
   <br />
   <div align="center">
     <picture>
@@ -50,3 +64,9 @@
     </picture>
   </div>
 </details>
+
+---
+
+<p align="center">
+  <sub>LISTEN DEEPLY · BUILD CLEARLY · VALIDATE HONESTLY</sub>
+</p>
