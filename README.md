@@ -1,17 +1,11 @@
 <p align="center">
   <a href="https://github.com/Tao716?tab=repositories">
-    <img src="./assets/taoyue-product-universe-v2.png" width="100%" alt="陶越的 AI 产品宇宙：从用户洞察到原型验证" />
+    <img src="./assets/taoyue-mascot-profile-card-v3.png" width="100%" alt="陶越 AI 产品经理：洞察问题、构建原型、验证价值" />
   </a>
 </p>
 
-<h1 align="center">陶越｜AI 产品经理</h1>
-
 <p align="center">
-  <strong>把问题听清，把能力做实，把产品验证出来。</strong>
-</p>
-
-<p align="center">
-  <sub>用户洞察 · 产品拆解 · Agent 工作流 · 原型验证</sub>
+  <sub>点击上方卡片查看全部项目 · 把问题听清，把能力做实，把产品验证出来</sub>
 </p>
 
 | **LISTEN** | **FRAME** | **BUILD** | **LEARN** |
