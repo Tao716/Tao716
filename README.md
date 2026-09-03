@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Tao716?tab=repositories">
-    <img src="./assets/taoyue-vibe-coder-card-v5.png" width="100%" alt="陶越 Vibe Coder：洞察问题、构建原型、验证价值" />
+    <img src="./assets/taoyue-vibe-coder-card-v5.png" width="84%" alt="陶越 Vibe Coder：洞察问题、构建原型、验证价值" />
   </a>
 </p>
 
