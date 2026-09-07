@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" role="img" aria-label="陶越 · Tao Yue — Vibe Coder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.5" stop-color="#141b26"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#a371f7"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.1" r="0.7">
+      <stop offset="0" stop-color="#58a6ff" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#58a6ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1000" height="210" rx="12" fill="url(#bg)"/>
+  <rect width="1000" height="210" rx="12" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="999" height="209" rx="12" fill="none" stroke="#30363d" stroke-width="1"/>
+  <rect x="0" y="0" width="1000" height="3" rx="1.5" fill="url(#accent)" opacity="0.9"/>
+
+  <g font-family="'Inter','Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif" text-anchor="middle">
+    <text x="500" y="78" font-size="46" font-weight="700" fill="#e6edf3" letter-spacing="4">陶越</text>
+    <rect x="468" y="96" width="64" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="500" y="128" font-size="15" font-weight="600" fill="#58a6ff" letter-spacing="5">TAO YUE · VIBE CODER</text>
+    <text x="500" y="158" font-size="18" fill="#8b949e">把 AI 想法做成能跑起来、能被体验的产品</text>
+    <text x="500" y="186" font-size="12" fill="#6e7681" letter-spacing="3.5">LISTEN · FRAME · BUILD · LEARN</text>
+  </g>
+</svg>

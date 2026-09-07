@@ -1,10 +1,17 @@
 <div align="center">
 
-# 陶越 · Tao Yue
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
+  <img src="./assets/header-dark.svg" width="100%" alt="陶越 · Tao Yue — Vibe Coder：把 AI 想法做成能跑起来、能被体验的产品" />
+</picture>
 
-**Vibe Coder** &nbsp;·&nbsp; 把 AI 想法做成能跑起来、能被体验的产品
+<br />
+<br />
 
-🧭 [全部项目](https://github.com/Tao716?tab=repositories) &nbsp;·&nbsp; 🌙 [关于我](#-关于我) &nbsp;·&nbsp; 🤝 [交流](#-交流)
+[![Projects](https://img.shields.io/badge/PROJECTS-1f6feb?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Tao716?tab=repositories)
+[![About](https://img.shields.io/badge/ABOUT-8957e5?style=for-the-badge&labelColor=0d1117)](#-关于我)
+[![Contact](https://img.shields.io/badge/CONTACT-1f883d?style=for-the-badge&labelColor=0d1117)](#-交流)
 
 </div>
 
