@@ -3,14 +3,14 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
-  <img src="./assets/header-dark.svg" width="100%" alt="陶越 · Tao Yue — Vibe Coder：把 AI 想法做成能跑起来、能被体验的产品" />
+  <img src="./assets/header-dark.svg" width="100%" alt="陶越 · Tao Yue — AI 产品经理：把 AI 想法推进成可验证的产品" />
 </picture>
 
 <br />
 <br />
 
 [![Projects](https://img.shields.io/badge/PROJECTS-1f6feb?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Tao716?tab=repositories)
-[![About](https://img.shields.io/badge/ABOUT-8957e5?style=for-the-badge&labelColor=0d1117)](#-关于我)
+[![About](https://img.shields.io/badge/ABOUT-8957e5?style=for-the-badge&labelColor=0d1117)](#关于我)
 [![Contact](https://img.shields.io/badge/CONTACT-1f883d?style=for-the-badge&labelColor=0d1117)](#-交流)
 
 </div>
@@ -98,22 +98,17 @@
 
 ---
 
-## 🌙 关于我
+## 关于我
 
-我是 **陶越**，一名 Vibe Coder，喜欢把 AI 想法做成能跑起来、能被体验的东西。
+### 把模糊的 AI 想法，推进成可验证的产品
 
-我关注 **AI 原生产品、Agent 工作流与内容工具**。通常从一个真实问题开始：先把场景和目标说清楚，再把想法拆开、做成原型，最后用反馈判断下一步。
+我是 **陶越**，一名专注于 **AI 原生产品、Agent 工作流与内容创作工具** 的产品经理。
 
-<div align="center">
-<br />
+我从真实场景出发，把用户需求、模型能力与产品目标连接起来；通过产品定义、快速原型和效果评测验证关键假设，推动方案从概念走向可体验、可迭代的产品。
 
-| 🎧 **LISTEN** | 🧩 **FRAME** | 🔨 **BUILD** | 📈 **LEARN** |
-| :---: | :---: | :---: | :---: |
-| 听见真实问题 | 定义目标与边界 | 做出可用原型 | 用证据推动迭代 |
+`用户洞察`　`AI 产品设计`　`Agent 工作流`　`快速原型`　`效果评测`
 
-<sub>把问题听清，把能力做实，把产品验证出来</sub>
-
-</div>
+> **工作路径：** 发现问题 → 定义边界 → 构建原型 → 验证价值
 
 ---
 
