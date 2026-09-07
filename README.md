@@ -4,44 +4,33 @@
 
 **Vibe Coder** &nbsp;·&nbsp; 把 AI 想法做成能跑起来、能被体验的产品
 
-<sub>洞察问题 &nbsp;·&nbsp; 构建原型 &nbsp;·&nbsp; 验证价值</sub>
-
-<br />
-
-![Vibe Coder](https://img.shields.io/badge/Vibe_Coder-8957e5?style=for-the-badge&labelColor=0d1117)
-![AI Native](https://img.shields.io/badge/AI_Native_Product-1f6feb?style=for-the-badge&labelColor=0d1117)
-![Agent](https://img.shields.io/badge/Agent_Workflow-1f883d?style=for-the-badge&labelColor=0d1117)
-![Prototyping](https://img.shields.io/badge/Prototyping-bf8700?style=for-the-badge&labelColor=0d1117)
-
-🧭 [查看全部项目](https://github.com/Tao716?tab=repositories) &nbsp;·&nbsp; 📌 [代表作品](#-代表作品) &nbsp;·&nbsp; 🤝 [欢迎交流](#-欢迎交流)
+🧭 [全部项目](https://github.com/Tao716?tab=repositories) &nbsp;·&nbsp; 🌙 [关于我](#-关于我) &nbsp;·&nbsp; 🤝 [交流](#-交流)
 
 </div>
 
 <br />
-
-<div align="center">
-
-| 🎧 **LISTEN** | 🧩 **FRAME** | 🔨 **BUILD** | 📈 **LEARN** |
-| :---: | :---: | :---: | :---: |
-| 听见真实问题 | 定义目标与边界 | 做出可用原型 | 用证据推动迭代 |
-
-<sub>把问题听清，把能力做实，把产品验证出来</sub>
-
-</div>
-
----
-
-## 🌙 关于我
-
-我是 **陶越**，一名 Vibe Coder，喜欢把 AI 想法做成能跑起来、能被体验的东西。
-
-我关注 **AI 原生产品、Agent 工作流与内容工具**。通常从一个真实问题开始：先把场景和目标说清楚，再把想法拆开、做成原型，最后用反馈判断下一步。
-
----
-
-## ⭐ 代表作品
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔮 [观象](https://github.com/Tao716/guanxiang)
+
+确定性六爻推演 + 可信 RAG + AI 深度解读，把传统文化决策做成可验证的产品。
+
+`TypeScript` `RAG` `确定性引擎`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🖥️ [哇塞 · 超级桌面](https://github.com/Tao716/wow)
+
+本地优先的 AI 无限画布桌面应用，含 Electron 桌面端、交互原型与产品文档。
+
+`TypeScript` `Electron` `本地优先`
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -49,20 +38,29 @@
 
 让纯聊天式 AI 游戏拥有可点击交互、可控状态与明确胜负规则。
 
-`可运行原型` `Agent Loop` `模型/工具边界`
+`TypeScript` `Agent Loop` `规则引擎`
 
 </td>
 <td width="50%" valign="top">
 
-#### 🧩 [知乎黑客松项目](https://github.com/Tao716/zhihu-hackathon)
+#### 🧩 [知乎黑客松](https://github.com/Tao716/zhihu-hackathon)
 
 将会议内容转成决策、任务与后续跟进，减少信息流失。
 
-`用户场景` `工作流设计` `可交互产品`
+`飞书 API` `DeepSeek` `工作流设计`
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+#### ✍️ [活人感中文写作 Skill](https://github.com/Tao716/human-writing-skill)
+
+降低 AI 中文写作的空泛、重复与事实失控。
+
+`Python` `Skill 设计` `质量标准`
+
+</td>
 <td width="50%" valign="top">
 
 #### 🔎 [小红书 AI 搜索架构分析](https://github.com/Tao716/xiaohongshu)
@@ -72,17 +70,43 @@
 `产品逆向` `架构表达` `风险判断`
 
 </td>
-<td width="50%" valign="top">
-
-#### ✍️ [活人感中文写作 Skill](https://github.com/Tao716/human-writing-skill)
-
-降低 AI 中文写作的空泛、重复与事实失控。
-
-`Skill 设计` `质量标准` `多轮改稿`
-
-</td>
 </tr>
 </table>
+
+<details>
+<summary>📂 更多项目</summary>
+
+<br />
+
+| 项目 | 说明 |
+| --- | --- |
+| ⛵ [最后的方舟](https://github.com/Tao716/last-ark) | DeepSeek 驱动的多 Agent 荒岛生存谈判游戏 |
+| 📊 [观象竞品分析](https://github.com/Tao716/guanxiang-competitive-analysis) | AI 传统文化决策产品竞品分析｜Next.js + GSAP |
+| 🏠 [星星谷](https://github.com/Tao716/xingxinggu) | Godot 4 像素风住宅 RPG 原型：家具互动、背包存档、宠物跟随 |
+| 📺 [libtv](https://github.com/Tao716/libtv) | AI 创作产品的证据化架构逆向：Agent、工作流与产品风险 |
+| 🎨 [GPT Taste Skill](https://github.com/Tao716/gpt-taste-skill) | GSAP 动效、AIDA 结构与高质量前端设计约束 |
+| 📚 [OpenKB](https://github.com/Tao716/OpenKB) | 开源 LLM 知识库 |
+
+</details>
+
+---
+
+## 🌙 关于我
+
+我是 **陶越**，一名 Vibe Coder，喜欢把 AI 想法做成能跑起来、能被体验的东西。
+
+我关注 **AI 原生产品、Agent 工作流与内容工具**。通常从一个真实问题开始：先把场景和目标说清楚，再把想法拆开、做成原型，最后用反馈判断下一步。
+
+<div align="center">
+<br />
+
+| 🎧 **LISTEN** | 🧩 **FRAME** | 🔨 **BUILD** | 📈 **LEARN** |
+| :---: | :---: | :---: | :---: |
+| 听见真实问题 | 定义目标与边界 | 做出可用原型 | 用证据推动迭代 |
+
+<sub>把问题听清，把能力做实，把产品验证出来</sub>
+
+</div>
 
 ---
 
@@ -113,7 +137,7 @@
 
 ---
 
-## 🤝 欢迎交流
+## 🤝 交流
 
 如果你也在做 AI 产品、Agent、工作流自动化或快速原型，欢迎交流真实问题、产品判断和实现过程。
 
