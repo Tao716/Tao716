@@ -1,11 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Tao716?tab=repositories">
-    <img src="./assets/taoyue-vibe-coder-card-v5.png" width="84%" alt="陶越 Vibe Coder：洞察问题、构建原型、验证价值" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>点击上方卡片查看全部项目 · 把问题听清，把能力做实，把产品验证出来</sub>
+  <sub>把问题听清，把能力做实，把产品验证出来</sub>
 </p>
 
 | **LISTEN** | **FRAME** | **BUILD** | **LEARN** |
