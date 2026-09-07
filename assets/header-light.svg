@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" role="img" aria-label="陶越 · Tao Yue — Vibe Coder">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" role="img" aria-label="陶越 · Tao Yue — AI Product Manager">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#ffffff"/>
@@ -22,8 +22,8 @@
   <g font-family="'Inter','Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif" text-anchor="middle">
     <text x="500" y="78" font-size="46" font-weight="700" fill="#1f2328" letter-spacing="4">陶越</text>
     <rect x="468" y="96" width="64" height="3" rx="1.5" fill="url(#accent)"/>
-    <text x="500" y="128" font-size="15" font-weight="600" fill="#0969da" letter-spacing="5">TAO YUE · VIBE CODER</text>
-    <text x="500" y="158" font-size="18" fill="#57606a">把 AI 想法做成能跑起来、能被体验的产品</text>
+    <text x="500" y="128" font-size="15" font-weight="600" fill="#0969da" letter-spacing="4">TAO YUE · AI PRODUCT MANAGER</text>
+    <text x="500" y="158" font-size="18" fill="#57606a">把 AI 想法推进成可体验、可验证的产品</text>
     <text x="500" y="186" font-size="12" fill="#6e7781" letter-spacing="3.5">LISTEN · FRAME · BUILD · LEARN</text>
   </g>
 </svg>
