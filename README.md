@@ -50,7 +50,7 @@
 </td>
 <td width="50%" valign="top">
 
-#### 🧩 [飞书黑客松一等奖](https://github.com/Tao716/zhihu-hackathon)
+#### 🧩 [飞书黑客松最高奖-绝活之王](https://github.com/Tao716/zhihu-hackathon)
 
 将会议内容转成决策、任务与后续跟进，减少信息流失。
 
